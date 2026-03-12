@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7de4151d-c9a6-4403-9555-27a3b90b6e36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/notebooks/04_pipeline_complet.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/01_visualisation_batiments.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/01_visualisation_batiments.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/02_CityJSON.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/02_CityJSON.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/04_pipeline_complet.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/04_pipeline_complet.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/maison.city.json" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/maison.city.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
